@@ -1,7 +1,10 @@
 <h2 align="center">Olá! Eu sou Mateus Pires 👋</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MateusPires-DevSoftware&show_icons=true&theme=dracula&hide_title=true" style="height: 200px; width: 47%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MateusPires-DevSoftware&show_icons=true&theme=dracula&hide_title=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusPires-DevSoftware&layout=compact&theme=dracula" />
 </p>
 
 <p align="center">
