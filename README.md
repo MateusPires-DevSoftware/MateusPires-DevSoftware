@@ -1,8 +1,7 @@
 <h2 align="center">Olá! Eu sou Mateus Pires 👋</h2>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MateusPires-DevSoftware&show_icons=true&theme=dracula&hide_title=true&cache_seconds=1800"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusPires-DevSoftware&layout=compact&theme=dracula&cache_seconds=1800"/>
+
 </p>
 
 <p align="center">
@@ -18,7 +17,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
