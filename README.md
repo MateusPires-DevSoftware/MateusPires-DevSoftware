@@ -54,14 +54,21 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">🔥 GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MateusPires-DevSoftware&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusPires-DevSoftware&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"
+  />
 </p>
 
+<p align="center">
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true"
+  />
+</p>
 ---
 
 <p align="center">
